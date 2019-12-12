@@ -1,0 +1,4 @@
+Ruby is a high-level programming language.
+It is user-friendly.
+It is open source.
+The latest version is 2.6.5.
